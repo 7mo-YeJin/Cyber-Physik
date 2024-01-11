@@ -1,0 +1,8 @@
+prefix=/home/cps-student-1/simulator/install
+
+Name: f110_simulator
+Description: Description of f110_simulator
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lf110_simulator
+Requires: message_runtime

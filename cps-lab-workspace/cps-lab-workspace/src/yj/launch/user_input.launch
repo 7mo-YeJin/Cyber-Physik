@@ -1,0 +1,5 @@
+<launch>
+  <group ns="yj">
+    <node pkg="yj" name="user_input" type="user_input" output="screen"/>
+  </group>
+</launch>

@@ -1,0 +1,5 @@
+<launch>
+  <group ns="yj">
+    <node pkg="yj" name="arithms_avg" type="arithms_avg" output="screen"/>
+  </group>
+</launch>

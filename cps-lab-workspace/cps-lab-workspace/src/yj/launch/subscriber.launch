@@ -1,0 +1,6 @@
+<launch>
+  <group ns="yj">
+    <node pkg="yj" name="subscriber" type="subscriber" output="screen"/>
+  </group>
+</launch>
+

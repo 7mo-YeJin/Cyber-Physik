@@ -1,0 +1,8 @@
+<launch>
+  <group ns="controller">
+    <node pkg="controller" name="controller" type="controller" output="screen"/>
+    <node pkg="controller" name="keyboard_teleop" type="keyboard_teleop" output="screen"/>
+    <node pkg="controller" name="inputmux" type="inputmux" output="screen"/>
+    <node pkg="controller" name="aeb" type="aeb" output="screen"/>
+  </group>
+</launch>

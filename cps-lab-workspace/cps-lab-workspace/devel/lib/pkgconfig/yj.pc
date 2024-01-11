@@ -1,0 +1,8 @@
+prefix=/home/cps-student-1/cps-lab-workspace/devel
+
+Name: yj
+Description: Description of yj
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

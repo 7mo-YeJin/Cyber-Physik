@@ -1,0 +1,2 @@
+f110_ros/f110_simulator
+-DCATKIN_DEVEL_PREFIX=/home/cps-student-1/simulator/devel -DCMAKE_INSTALL_PREFIX=/home/cps-student-1/simulator/install -G Unix Makefiles
